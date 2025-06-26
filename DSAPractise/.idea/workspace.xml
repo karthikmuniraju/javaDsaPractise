@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772d510b-e126-4b4b-a63e-d6c66b735017" name="Changes" comment="" />
+    <list default="true" id="b325bb40-9766-4e39-99a9-7bf0712b1d54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2Practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DayOnePractise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeDay1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeDay2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeDay3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicatesFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseAnArrayInPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RightRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RightRotateKSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,34 +30,51 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="2yxIblrMzJPsO1u9SEsU44pDZPv" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2z3Aw1QvmAgBEJKO3ncr4fZ7NRA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Day2Practise.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DayOnePreactiseClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCodeDay2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetcodeDay1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicatesFromArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseAnArrayInPlace.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.RightRotate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotateTheArrayToRightKSteps.executor&quot;: &quot;Run&quot;,
-    &quot;Application.findMinMaxInAArray.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/karthik.m/IdeaProjects/DSAPractise/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinarySearch.executor": "Run",
+    "Application.Day2Practise.executor": "Run",
+    "Application.DayOnePractise.executor": "Run",
+    "Application.DayOnePractiseClass.executor": "Run",
+    "Application.FindMinMax.executor": "Run",
+    "Application.LeetCodeDay1.executor": "Run",
+    "Application.LeetCodeDay2.executor": "Run",
+    "Application.RightRotate.executor": "Run",
+    "Application.RightRotateKSteps.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/karthik.m/IdeaProjects/DSAPractise/src",
+    "onboarding.tips.debug.path": "/Users/karthik.m/IdeaProjects/DSAPractise/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.Day2Practise">
-    <configuration name="Day2Practise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2Practise" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="DSAPractise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCodeDay1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeDay1" />
       <module name="DSAPractise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,13 +87,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesFromArray" />
-      <module name="DSAPractise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RightRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RightRotate" />
       <module name="DSAPractise" />
@@ -71,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateTheArrayToRightKSteps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotateTheArrayToRightKSteps" />
+    <configuration name="RightRotateKSteps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RightRotateKSteps" />
       <module name="DSAPractise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,22 +103,33 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day2Practise" />
-        <item itemvalue="Application.RotateTheArrayToRightKSteps" />
-        <item itemvalue="Application.LeetCodeDay2" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.LeetCodeDay1" />
+        <item itemvalue="Application.RightRotateKSteps" />
         <item itemvalue="Application.RightRotate" />
-        <item itemvalue="Application.RemoveDuplicatesFromArray" />
+        <item itemvalue="Application.LeetCodeDay2" />
       </list>
     </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="772d510b-e126-4b4b-a63e-d6c66b735017" name="Changes" comment="" />
-      <created>1750769870999</created>
+      <changelist id="b325bb40-9766-4e39-99a9-7bf0712b1d54" name="Changes" comment="" />
+      <created>1750949618585</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1750769870999</updated>
+      <updated>1750949618585</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day2Practise.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
