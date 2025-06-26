@@ -1,100 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="772d510b-e126-4b4b-a63e-d6c66b735017" name="Changes" comment="" />
+    <list default="true" id="c7ec7ccb-6471-4a73-b07e-b4cd45ba9cf0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="2yxIblrMzJPsO1u9SEsU44pDZPv" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2z39ZzJRZbmbi4F8X6GgD3lvWYh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Day2Practise.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DayOnePreactiseClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCodeDay2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetcodeDay1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicatesFromArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseAnArrayInPlace.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.RightRotate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotateTheArrayToRightKSteps.executor&quot;: &quot;Run&quot;,
-    &quot;Application.findMinMaxInAArray.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/karthik.m/IdeaProjects/DSAPractise/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "/Users/karthik.m/IdeaProjects/DSAPractise/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.Day2Practise">
-    <configuration name="Day2Practise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2Practise" />
-      <module name="DSAPractise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCodeDay2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeDay2" />
-      <module name="DSAPractise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveDuplicatesFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesFromArray" />
-      <module name="DSAPractise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RightRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RightRotate" />
-      <module name="DSAPractise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RotateTheArrayToRightKSteps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotateTheArrayToRightKSteps" />
-      <module name="DSAPractise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Day2Practise" />
-        <item itemvalue="Application.RotateTheArrayToRightKSteps" />
-        <item itemvalue="Application.LeetCodeDay2" />
-        <item itemvalue="Application.RightRotate" />
-        <item itemvalue="Application.RemoveDuplicatesFromArray" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="772d510b-e126-4b4b-a63e-d6c66b735017" name="Changes" comment="" />
-      <created>1750769870999</created>
+      <changelist id="c7ec7ccb-6471-4a73-b07e-b4cd45ba9cf0" name="Changes" comment="" />
+      <created>1750948948974</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1750769870999</updated>
+      <updated>1750948948974</updated>
     </task>
     <servers />
   </component>
