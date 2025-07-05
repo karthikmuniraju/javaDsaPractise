@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772d510b-e126-4b4b-a63e-d6c66b735017" name="Changes" comment="" />
+    <list default="true" id="772d510b-e126-4b4b-a63e-d6c66b735017" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -25,23 +30,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Day2Practise.executor": "Run",
-    "Application.DayOnePreactiseClass.executor": "Run",
-    "Application.LeetCodeDay2.executor": "Run",
-    "Application.LeetcodeDay1.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.RemoveDuplicatesFromArray.executor": "Run",
-    "Application.ReverseAnArrayInPlace.executor": "Debug",
-    "Application.RightRotate.executor": "Run",
-    "Application.RotateTheArrayToRightKSteps.executor": "Run",
-    "Application.findMinMaxInAArray.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "/Users/karthik.m/IdeaProjects/DSAPractise/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Day2Practise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DayOnePreactiseClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCodeDay2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetcodeDay1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicatesFromArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseAnArrayInPlace.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RightRotate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateTheArrayToRightKSteps.executor&quot;: &quot;Run&quot;,
+    &quot;Application.findMinMaxInAArray.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/karthik.m/IdeaProjects/DSAPractise/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Day2Practise">
     <configuration name="Day2Practise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day2Practise" />
